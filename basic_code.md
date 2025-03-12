@@ -1,0 +1,30 @@
+# Tento kod dej do sveho .html souboru
+[HOME](README.md)
+```html
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Slechanka</title>
+    <!-- CSS kód zde -->
+    <style>
+        h1 {
+            color: red;
+        }
+        p {
+            color: blue;
+        }
+    </style>
+</head>
+<body>
+    <!-- Kód zde -->
+    <h1>Nadpis</h1>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Saepe asperiores ullam corporis libero earum eum ea dolor, illo, veniam voluptatum doloribus minus rem magnam nesciunt dolore omnis quisquam dignissimos aliquam.</p>
+
+    <!-- JS kód zde -->
+    <script>
+        alert('Ahoj světe!');
+    </script>
+</body>
+</html>
